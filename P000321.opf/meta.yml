@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD194
   title: ཟངས་རི་རྫོང་གི་དཀར་ཆག
-  volume: ''
+  volume:
+    83956a5daae549248cd70a6122707bd8:
+      image_group_id: I4PD4607
+      title: Volume 1 of zangs ri rdzong gi dkar chag
+      volume_number: 1
+      total_pages: 916
   author: ''
+ebook_metadata:
+  title: ཟངས་རི་རྫོང་གི་དཀར་ཆག
+  author: ''
+  sku: P000321
+  cover: cover.jpg
+  layers:
+  - pagination
